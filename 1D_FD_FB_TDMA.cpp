@@ -31,7 +31,7 @@ double chiProf(double x)
 {
     double InvErfc = erfc_inv(2*x);
     cout<<"InvErfc for "<< x <<" ="<< InvErfc << endl;
-    double a = 50;
+    double a = 50;  //Strain rate (1/s). Only to see the chi profile. Can be modified. 
 
     return (a/3.1416)*exp(-2*pow(InvErfc,2));
 }
