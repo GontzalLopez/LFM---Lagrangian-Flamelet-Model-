@@ -1,6 +1,6 @@
 # LFM-Lagrangian-Flamelet-Model
 
->Initial code to solve the species transport equations in the mixing fraction space. It uses the profile of stoichiometric scalar dissipation rate of Peters. 
+>Initial code to solve the species transport equations in the mixture fraction space. It uses the profile of stoichiometric scalar dissipation rate of Peters. 
 
 >The Crank-Nicolson finite difference method is used. 
 
