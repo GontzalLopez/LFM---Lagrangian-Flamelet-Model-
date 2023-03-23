@@ -1,4 +1,4 @@
-# LFM-Lagrangian-Flamelet-Model
+# LFM - Lagrangian Flamelet Model
 
 >Initial code to solve the species transport equations in the mixture fraction space. It uses the profile of stoichiometric scalar dissipation rate of Peters. 
 
